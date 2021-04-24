@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+				<title>CDN</title>
+				<meta name="robots" content="noindex" />
+				<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=no" />
+				<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+</head>
+<body>
+<div style="font-family: 'Roboto', sans-serif;">
+<h2 id="ip">IP</h2>
+<h2>IP non autorisée</h2>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript"> 
+        $.get("https://ipinfo.io", function(response) { 
+            $('#ip').html(response.ip);
+        }, "json") 
+    </script>
+</div>
+</body>
+</html>
