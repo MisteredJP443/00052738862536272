@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/yJTk4eqQd9Yo5REpFbTSOMkbSgn.jpg", Godzilla Vs Kong
+https://stream01.peliscloud.net/playlist/26f760d8b69b82093f8a26a4a69f01c5/1621552797099
+#EXTINF:0 group-title="peliculas" tvg-logo="ns", Anime
+https://stream07.peliscloud.net/playlist/c22ccb3e1b7a6aea85696938ea04709e/1621454956422.m3u8
+#EXTINF:0 group-title="peliculas" tvg-logo="", Otro
+https://stream07.peliscloud.net/playlist/8b21f4c60ea613b852941e0eeff7a88f/1621529235567
+#EXTINF:0 group-title="peliculas" tvg-logo="", JosMovies
+https://josmovies.ga/army2/code/embed/players/fmd/htmlcodss/fmd/api.php?v=ygd-jiepzjdp6pq
+#EXTINF:0 group-title="peliculas" tvg-logo="https://pelismaraton.com/poster/mortal-kombat.jpg", Mortal Kombat 2021 | WIDOZAFLIX
+http://ipeteve.com/WIDOZAFLIX100321/m0rt4l.k0mb4t.2021.hdrip.720p.latino.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://image.tmdb.org/t/p/original/saHP97rTPS5eLmrLQEcANmKrsFl.jpg", Forrest Gump | WIDOZAFLIX
+http://ipeteve.com/WIDOZAFLIX100321/ForestGump.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://media.movieassets.com/static/images/items/movies/posters/923c0fbb794aba1f867a76e7922360f4.jpg", Sangre por sangre | WIDOZAFLIX
+http://ipeteve.com/WIDOZAFLIX100321/Sangre.por.Sangre.SrRegio.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/eb/0d/96/eb0d96284743ac36ea03cd679f4ad63f.jpg", Amigos Inseparables | WIDOZAFLIX
+http://ipeteve.com/WIDOZAFLIX100321/AmInSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="https://2.bp.blogspot.com/-tKCi3gVqH7Q/Wv7fu40fynI/AAAAAAAAOgI/eFTH6TaVM9sSI5EGH-bmt2qp88tVCYjoQCLcBGAs/s1600/12_Horas_Para_Sobrevivir_JPoster_Latino_a_JPosters.jpg", 12 Horas para sobrevivir: La Primera Purga | WIDOZAFLIX
+http://ipeteve.com/WIDOZAFLIX100321/12HorasPSobrevivirLaPrimeraPurgaSRREGIO.mkv
+#EXTINF:0 group-title="peliculas" tvg-logo="http://es.web.img3.acsta.net/pictures/21/01/25/13/40/3112646.jpg", Tom & Jerry 2021 | WIDOZAFLIX
+http://ipeteve.com/WIDOZAFLIX100321/t0m.4nd.j3rry.2021.hdrip.720p.latino.SRREGIO.NET.mkv
