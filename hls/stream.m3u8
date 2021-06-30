@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=321534,AVERAGE-BANDWIDTH=229644,CODECS="avc1.4d400d,mp4a.40.2",RESOLUTION=416x234,FRAME-RATE=23.976
+https://play-akamai.pongalo.com/tokyo-ghoul/tokyo-ghoul_1-1/play_v1_hls_234p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=512852,AVERAGE-BANDWIDTH=326197,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=23.976
+https://play-akamai.pongalo.com/tokyo-ghoul/tokyo-ghoul_1-1/play_v1_hls_360p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1038726,AVERAGE-BANDWIDTH=452975,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=768x432,FRAME-RATE=23.976
+https://play-akamai.pongalo.com/tokyo-ghoul/tokyo-ghoul_1-1/play_v1_hls_432p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1858088,AVERAGE-BANDWIDTH=574346,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=23.976
+https://play-akamai.pongalo.com/tokyo-ghoul/tokyo-ghoul_1-1/play_v1_hls_540p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3674858,AVERAGE-BANDWIDTH=1008762,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=23.976
+https://play-akamai.pongalo.com/tokyo-ghoul/tokyo-ghoul_1-1/play_v1_hls_720p.m3u8
